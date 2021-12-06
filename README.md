@@ -1,4 +1,5 @@
 # KicadFootprints
+Deprecated! Use github.com/sonosus/sonosuskicad for the latest KiCad 6.0 footprint and symbol library files.
 Footprints for my various KiCAD PCB files on Github.
 Incorporates:
 * Custom footprints
